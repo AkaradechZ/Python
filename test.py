@@ -1,1 +1,1 @@
-print("i love HEgEl")
+print("i love HdEgEl")
